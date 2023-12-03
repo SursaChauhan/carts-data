@@ -1,0 +1,56 @@
+{
+    "users":[
+        {
+          "id": 1,
+          "name": "Car Floor Mats",
+          "category": "Interior",
+          "brand": "FloorGuard",
+          "price": 299,
+          "quantity": 1,
+          "images": [
+            "https://www.shutterstock.com/shutterstock/photos/1328688809/display_1500/stock-photo-car-d-handmade-floor-mats-of-red-color-from-wool-for-front-and-rear-passengers-of-a-vehicle-in-an-1328688809.jpg",
+            "https://d2zl5tj7gmc4tr.cloudfront.net/images/products/m-cm-5-4305_20210521090534.jpg",
+            "https://www.shutterstock.com/shutterstock/photos/1337922536/display_1500/stock-photo-red-carpet-and-floor-mats-in-the-luxury-car-with-aluminium-pedals-also-1337922536.jpg"
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Tie Rod Ends",
+          "category": "Steering System",
+          "brand": "TieMaster",
+          "price": 1086,
+          "quantity": 1,
+          "images": [
+            "https://www.shutterstock.com/image-photo/tie-rod-end-on-white-260nw-1408394618.jpg",
+            "https://www.shutterstock.com/image-photo/tie-rod-end-isolated-on-260nw-2300274527.jpg",
+            "https://www.shutterstock.com/image-photo/image-tie-rod-end-260nw-111938135.jpg"
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Spark Plug",
+          "category": "Ignition System",
+          "brand": "Sham Motors",
+          "price": 459,
+          "quantity": 1,
+          "images": [
+            "https://www.shutterstock.com/image-photo/old-spark-plugs-260nw-169484921.jpg",
+            "https://www.shutterstock.com/image-photo/spark-plug-replacement-close-old-260nw-2010026996.jpg",
+            "https://www.shutterstock.com/shutterstock/photos/1635506170/display_1500/stock-photo-spark-plugs-on-a-white-background-d-illustration-1635506170.jpg"
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Brake Disc",
+          "category": "Braking System",
+          "brand": "AutoTech",
+          "price": 4999,
+          "quantity": 1,
+          "images": [
+            "https://www.shutterstock.com/image-photo/car-brake-disc-red-caliper-260nw-1027595830.jpg",
+            "https://www.shutterstock.com/image-photo/disc-brake-isolated-on-white-260nw-1051231913.jpg",
+            "https://www.shutterstock.com/image-vector/car-brakes-disc-universal-shoe-260nw-2303714353.jpg"
+          ]
+        }
+    ]
+}
